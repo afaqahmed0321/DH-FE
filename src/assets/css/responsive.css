@@ -1,0 +1,58 @@
+@media only screen and (max-width: 767px) {
+    .heading {
+        font-size: 18px !important;
+        line-height: 18px !important;
+        font-weight:bolder !important;
+    }
+    .spacesImg {
+    height: 3.5rem !important;
+    }
+        .text-26 {
+            font-size: 26px !important;
+            font-weight: 700;
+            line-height: 40px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+        .space-btn-font{
+            font-size: 14px !important;
+        }
+        .space-btn-size{
+            padding: 6px !important;
+        }
+        .booking-btn{
+            font-size: 11px !important;
+            padding: 3px 6px !important;
+        }
+}
+.css-13cymwt-control,
+.css-13cymwt-contro:focus {
+  border: none !important;
+  outline: none !important;
+  border-color: transparent !important;
+  outline-color: transparent !important;
+}
+.css-b62m3t-container,
+.css-b62m3t-container:focus {
+  width: 100% !important;
+  margin-top: 8px !important;
+  border-color: transparent !important;
+  outline-color: transparent !important;
+}
+
+.css-t3ipsp-control,
+.css-t3ipsp-control:focus,
+.css-t3ipsp-control:hover {
+  box-shadow: none !important ;
+  outline: 0px !important;
+  border: 0px !important;
+  border-color: transparent !important;
+  outline-color: transparent !important;
+}
+
+.location {
+  display: flex !important;
+  height: 56px !important;
+  border-radius: 8px !important;
+  border: 1px solid #e7e6e9 !important;
+}
